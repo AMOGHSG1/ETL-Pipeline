@@ -4,11 +4,11 @@ Api (live data) - GCP cloud - Data Fusion - Big querry - Looker Studio visualisa
 * 1st step :
   In This project i fetched API cars live  data from  ( https://rapidapi.com/hub )  website.
   code consist of
-           api code
-           pass key
-           google cloud connection to bucket
-           data count
-           csv save local and too bucket
+           api code part
+           pass key part
+           google cloud connection to bucket part
+           data count part
+           csv save local and too bucket part
 * 2nd step :
   I created a Bucket in GCP cloud and  installed google cloud sdk .and done cli setup in local terminal . and environment up.
 
@@ -24,4 +24,24 @@ Api (live data) - GCP cloud - Data Fusion - Big querry - Looker Studio visualisa
 
 * 6th step :
   Looker studio : login with your google account . search the option connect to big querry , locate the file . connect the data.
-  visualisation will be done as the user story. 
+  visualisation will be done as the user story.
+
+*7th step :
+  Making automated process 
+  cloud composer : create an environment  
+
+*8th step :
+  write the code of airflow and Dag .save it to the bucket.
+   code : airflow part
+          reconnect part
+          timer part
+          dag part
+          e-mail if airflow failed part
+
+9th step :
+  airflow : dag will appear on airflow . run it .if it succeed. it started the automated process.
+
+10th step : if it is failed for libraries & pip.
+            in composer u can find pyps packages . create the package(pip) wahat to be installed name .
+
+Run the airflow again.
