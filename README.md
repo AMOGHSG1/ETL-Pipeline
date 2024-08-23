@@ -1,5 +1,5 @@
 # ETL-Pipeline
-Api (live data) - GCP cloud - Data Fusion - Big querry - Looker Studio visualisation .
+Api (live data) - GCP cloud - Data Fusion - Big querry - Looker Studio visualisation - Cloud composer - Apache Airflow .
 
 * 1st step :
   In This project i fetched API cars live  data from  ( https://rapidapi.com/hub )  website.
