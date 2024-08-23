@@ -45,3 +45,5 @@ Api (live data) - GCP cloud - Data Fusion - Big querry - Looker Studio visualisa
             in composer u can find pyps packages . create the package(pip) wahat to be installed name .
 
 Run the airflow again.
+
+For Reference video : https://www.youtube.com/watch?v=kxV4_xDchCc&list=PLLrA_pU9-Gz2DaQDcY5g9aYczmipBQ_Ek&index=2
