@@ -1,7 +1,7 @@
 # ETL-Pipeline
 Api (live data) - GCP cloud - Data Fusion - Big querry - Looker Studio visualisation - Cloud composer - Apache Airflow .
 
-> ![image](https://github.com/AMOGHSG1/Excel_Bike_sales_Dashboard_Project/blob/main/Dashboard.png)
+> ![image](automobile_dataengineering/ETL.png)
 
 * 1st step :
   In This project i fetched API cars live  data from  ( https://rapidapi.com/hub )  website.
